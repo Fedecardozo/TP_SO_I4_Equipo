@@ -9,3 +9,19 @@ A- Azul
 B- Amarillo
 C- Blanco
 D- Los 2
+
+Pregunta:
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+Respuestas:
+E- Beta y gamma tuvieron problemas al hacer el push normal
+F- No dejaba pushearlo a la rama de TESTING
+G- push -f
+H- Se sobreescribe el archivo
+I- Moverte a la rama de desarrollo y subir los cambios e ir actualizandolos 
